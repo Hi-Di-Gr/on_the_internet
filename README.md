@@ -1,6 +1,6 @@
 # 🧬 High Dimensional Evolution Group  
 ## 🧭 Navigation
-Please jump around and through the resources below. These are the notes and ideas that the HiD group has created and maintains to aid the project, as well as, related projects (i.e., evolutionary-computation, language-modeling, complex systems, collective intelligence etc.)
+Please jump around and through the resources below. These are the notes and ideas that the HiD group has created and maintains to aid the project, as well as, related projects: evolutionary-computation, language-modeling, and complex systems research: collective intelligence.
 
 ---
 ### [Projects](https://github.com/Hi-Di-Gr/Hi-D-Group/blob/main/Presentations/Presentations.md)
