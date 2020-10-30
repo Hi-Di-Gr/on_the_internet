@@ -8,7 +8,7 @@
 Please jump around and through the resources below. These are the notes and ideas that the HiD (`HiDev`, `High-D` `Group`, `Hi-D-Gr`, `Hi-D-Ev`) group has created and maintains to aid the project, as well as, related projects (i.e., evolutionary-computation, language-modeling, complex systems, collective intelligence etc.)
 
 ---
-### [Projects](https://storage.googleapis.com/root-proposal-1246/HiD/hi-d-ev-presentation_final.pdf)
+### [Projects](project_page.md)
 
 ---
 ### Resources:
