@@ -22,3 +22,10 @@
 ### [Experiments with OpenAI Gym, Processing, and SLM](https://github.com/Hi-Di-Gr/Hi_D_Ev)
 ![OpenAIGYM](openai_gym.png)
 ![SLM](SLM.png)
+
+---
+> **Ack:** _SFI, SFI-CI participants (staff/students), MOTHER/GOD_
+
+_làtom,_
+
+_HiDev Group_
